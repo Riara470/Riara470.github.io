@@ -1,6 +1,6 @@
 Exercise 1 — Headings:
-##MyLearning Goal##
-###This semester###
+## MyLearning Goal ##
+### This semester ###
 Exercise 2 — Text formatting:
 Hey **there** *lets learn* more `skills` here
 Exercise 3 — Links:
