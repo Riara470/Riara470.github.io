@@ -19,7 +19,7 @@ Exercise 4 — Lists:
 
 -Java
 
-Exercise 5 — 
+Exercise 5 — changes
 
 1. Make changes to your file
 
@@ -29,14 +29,14 @@ Exercise 5 —
 
 4.Push to the remote with git push
 
-Exercise 5 — Table:
+Exercise 6 — Table:
 
 Tool    |Purpose         |Link              |
 --------|----------------|------------------|
 |Github |Version control | Github.com       |
 |Vs code|Code editer     | Code.visualstudio|
 
-Exercise 6 — Task list:
+Exercise 7 — Task list:
 
 -[x]creating a github account
 
@@ -46,11 +46,11 @@ Exercise 6 — Task list:
 
 -[]ProgrammingLanguage
 
-Exercise 7 — Code block:
+Exercise 8 — Code block:
 
 ```python
 print("Hello, world!")
 ```
-Exercise 8 — Blockquote:
+Exercise 9 — Blockquote:
 
 I have learned how to write a markdown.md
