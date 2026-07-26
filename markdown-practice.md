@@ -7,14 +7,11 @@ Exercise 2 — Text formatting:
 
 Hey **there** *lets learn* more `skills` here
 
-
 Exercise 3 — Links:
 
 https://github.com
 
-
 Exercise 4 — Lists:
-
 
 -Rust
 
@@ -22,27 +19,24 @@ Exercise 4 — Lists:
 
 -Java
 
-
 Exercise 5 — 
 
-
 1. Make changes to your file
+
 2. Stage the change with git add
+
 3.commit your message
+
 4.Push to the remote with git push
 
-
 Exercise 5 — Table:
-
 
 Tool    |Purpose         |Link              |
 --------|----------------|------------------|
 |Github |Version control | Github.com       |
 |Vs code|Code editer     | Code.visualstudio|
 
-
 Exercise 6 — Task list:
-
 
 -[x]creating a github account
 
@@ -52,11 +46,11 @@ Exercise 6 — Task list:
 
 -[]ProgrammingLanguage
 
-
 Exercise 7 — Code block:
 
 ```python
 print("Hello, world!")
 ```
 Exercise 8 — Blockquote:
->I have learned how to write a markdown.md
+
+I have learned how to write a markdown.md
