@@ -4,10 +4,12 @@ Exercise 1 — Headings:
 
 
 Exercise 2 — Text formatting:
+
 Hey **there** *lets learn* more `skills` here
 
 
 Exercise 3 — Links:
+
 https://github.com
 
 
@@ -15,7 +17,9 @@ Exercise 4 — Lists:
 
 
 -Rust
+
 -Go
+
 -Java
 
 
@@ -41,8 +45,11 @@ Exercise 6 — Task list:
 
 
 -[x]creating a github account
+
 -[]know how to creating website
+
 -[]HTML
+
 -[]ProgrammingLanguage
 
 
